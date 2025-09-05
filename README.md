@@ -1,6 +1,6 @@
 # E-commerce (PHP OOP)
 
-![E-commerce](e-commerce-admin-hilalsalarzi.png) <!-- You can add an image or screenshot of your project here -->
+![E-commerce](e-commerce-admin-samuel.png) <!-- You can add an image or screenshot of your project here -->
 
 ## Installation Steps
 
@@ -16,8 +16,8 @@
 
 ## Getting Started
 
-1. Open your browser and access the URL: `http://localhost/shopping-project/` to view the E-commerce website.
-2. To access the admin panel, use the URL: `http://localhost/shopping-project/admin`.
+1. Open your browser and access the URL: `http://localhost/Ecormmerce/` to view the E-commerce website.
+2. To access the admin panel, use the URL: `http://localhost/Ecormmerce/admin`.
 3. Admin login details:
    - Login Id: admin
    - Password: admin
@@ -27,12 +27,7 @@
 - Login Id: user@gmail.com
 - Password: user1
 
-## InstaMojo Payment Gateway Settings
-
-1. Register on Instamojo website: https://www.instamojo.com or https://test.instamojo.com/
-2. Obtain API Key and Auth Token on this page: https://www.instamojo.com/integrations or https://test.instamojo.com/integrations.
-3. Get the PHP code from this link: https://docs.instamojo.com/docs/create-a-request.
-4. Set the API Key and Auth Token on line number 19 & 20 in "PROJECT-FOLDER/instamojo.php". Also, set the API URL on line number 14.
+## PayStack Payment Gateway Settings
 
 ## Technologies Used
 
