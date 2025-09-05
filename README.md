@@ -16,8 +16,8 @@
 
 ## Getting Started
 
-1. Open your browser and access the URL: `http://localhost/Ecormmerce/` to view the E-commerce website.
-2. To access the admin panel, use the URL: `http://localhost/Ecormmerce/admin`.
+1. Open your browser and access the URL: `http://localhost/E-commerce/` to view the E-commerce website.
+2. To access the admin panel, use the URL: `http://localhost/E-commerce/`.
 3. Admin login details:
    - Login Id: admin
    - Password: admin
@@ -27,7 +27,14 @@
 - Login Id: user@gmail.com
 - Password: user1
 
+
+
 ## PayStack Payment Gateway Settings
+
+1. Register on Paystack: https://paystack.com
+2. Get your API Key: Dashboard → Settings → API Keys & Webhooks.
+3. Set API Key and URL in your PHP project: https://api.paystack.co
+4. Follow Paystack docs to initialize payments and verify transactions: https://paystack.com/docs/payments/accept-payments
 
 ## Technologies Used
 
@@ -38,7 +45,7 @@
 
 ## Screenshots
 
-![Screenshot 1](e-commerce-user-hilalsalarzi.png)
+![Screenshot 1](e-commerce-user-samuel.png)
 
 <!-- Add more screenshots if applicable -->
 
@@ -52,8 +59,7 @@ Contributions are welcome! If you find any issues with the application or want t
 
 Thank you for exploring the E-commerce (PHP OOP) application! For any questions or feedback, feel free to contact me.
 
-[LinkedIn](https://www.linkedin.com/in/hilalsalarzi)
-[Email](mailto:hilalahamdsalarzi@gmail.com)
-[GitHub](https://github.com/hilalsalarzi)
-[Facebook](https://www.facebook.com/hilalsalarzi)
-[Instagram](https://www.instagram.com/hilalsalarzi)
+[Email](mailto:victorsamtex221@gmail.com)
+[GitHub](https://github.com/samuelvictor-444/)
+[Facebook](https://web.facebook.com/samuel.okhoigbe.2025)
+
